@@ -76,3 +76,5 @@ for index, row in df.iterrows():
     else:
         neutral_news.append(row[-1])
 print(len(positive_news),len(negative_news),len(neutral_news))
+
+print('c')
