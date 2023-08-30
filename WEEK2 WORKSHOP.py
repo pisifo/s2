@@ -234,3 +234,5 @@ def get_pages():
        "prices": prices}
    )
    print(df.head())
+
+   print('c')
