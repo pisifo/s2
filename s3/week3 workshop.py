@@ -78,4 +78,3 @@ for index, row in df.iterrows():
 print(len(positive_news),len(negative_news),len(neutral_news))
 
 print('c')
-print('d')
