@@ -5,7 +5,7 @@ print(ps.stem("better"))
 # nltk. download('wordnet')
 # nltk. download(omw-1.4')
 from nltk.stem import WordNetLemmatizer
-wnl = WordNettizer()
+wnl = WordNetLemmatizer()
 print(wnl.lemmatize('better'))
 
 #task2
